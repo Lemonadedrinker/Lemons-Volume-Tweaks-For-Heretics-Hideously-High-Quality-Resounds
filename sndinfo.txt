@@ -10,7 +10,7 @@ $volume misc/zap3 0.4
 
 ; Footsteps
 $volume humanoid/step 0.7
-$volume humanoid/squishtep 0.3
+$volume humanoid/squishstep 0.5
 
 ; Revenant Footsteps
 $volume revenant/step 0.02
