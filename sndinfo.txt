@@ -1,0 +1,16 @@
+; Cacodemon
+$volume caco/arczap 0.3
+$volume caco/ballcrack 0.3
+$volume caco/zap 0.3
+$volume caco/zap2 0.3
+$volume caco/zap3 0.3
+$volume misc/zap 0.4
+$volume misc/zap2 0.4
+$volume misc/zap3 0.4
+
+; Footsteps
+$volume humanoid/step 0.7
+$volume humanoid/squishtep 0.5
+
+; Revenant Footsteps
+$volume revenant/step 0.02
