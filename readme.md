@@ -12,3 +12,6 @@ Currently adjusts (or makes available) the sounds of:
 
 ### Revenant Footsteps
 * Volume: 0.02x
+
+## Thanks to: ***A Fucking Heretic*** for the original mod at:
+## https://dastrukar.gitlab.io/hddons-list/#hereticshideouslyhighqualityresounds-afuckingheretic
